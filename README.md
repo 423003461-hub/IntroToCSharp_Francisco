@@ -2,7 +2,7 @@
 
 ## Author
 Reyna V. Francisco  
-BS Information Technology 3.2 
+BS Information Technology
 National Teachers College  
 
 ## Lab Description
